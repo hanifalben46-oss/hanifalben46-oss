@@ -1,50 +1,56 @@
-# muhammad dzahwan hanif albenti   
-> backend · frontend · business enthusiast · saham & finance · c# lover
+# Muhamad Dzahwan Hanif Albenti 
+**Backend • Frontend • Business Enthusiast • Saham & Finance**  
+Backend developer yang rapi, frontend yang peduli detail, jiwa bisnis yang terus belajar.
 
 ---
 
-### tentang aku
-halo — aku muhammad dzahwan hanif albenti. aku bekerja dan belajar sebagai *backend & front-end developer* dengan fokus membangun aplikasi yang bersih, cepat, dan scalable. di luar coding, aku serius belajar dunia bisnis, saham, dan manajemen keuangan. gaya kerjaku rapi, profesional, dan fokus ke hasil. kalau kamu suka proyek dengan arsitektur jelas dan testing yang kuat, kita pasti nyambung. 😎
+### 🔮 sekilas tentang aku
+Halo — Aku Muhamad Dzahwan Hanif Albenti. Fokus utamaku adalah membangun aplikasi yang andal dan elegan. Suka menyelam ke logika backend sekaligus merapikan UX di frontend. Selain coding, suka mempelajari pasar saham dan strategi finansial sederhana yang bisa diaplikasikan di dunia nyata.
 
 ---
 
-### apa yang aku lakukan
-- membangun API yang reliable dan aman untuk produk skala menengah ke atas  
-- membuat tampilan front-end yang user-friendly dan performa tinggi  
-- menerapkan prinsip clean code, design patterns, dan best-practice deployment  
-- menggabungkan logika bisnis dengan insight finansial untuk solusi produk yang berdampak
+### 🛠 skill & tech
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+**Lainnya:** REST API · Authentication · SQL · Git · Deployment · Clean Code
 
 ---
 
-### skillset utama
-**bahasa & framework**  
-- `c#` (asp.net / api design)  
-- `javascript` (vanilla + modern patterns)  
-- `html`, `css` (semantik, aksesibilitas, responsive)  
+### 🚀 apa yang aku bangun
+- Sistem backend yang scalable untuk aplikasi bisnis kecil hingga menengah.  
+- Halaman frontend responsif dengan perhatian pada performa dan aksesibilitas.  
+- Tools internal sederhana untuk analitik dan automasi proses manual.  
 
-**lainnya**  
-- arsitektur backend, rest & api design  
-- dasar-dasar trading & analisis saham  
-- listing produk dan strategi bisnis awal (mvp → growth)
+> Ingin lihat demo atau case study? cek repo yang dipinned di profilku.
 
 ---
 
-### proyek unggulan
-> tampilkan 3 repo terpilihmu (pinned repos) — contohnya:  
-- **project-api** — backend api untuk aplikasi manajemen (auth, role, audit)  
-- **dashboard-finance** — dashboard analitik sederhana untuk portofolio saham  
-- **landing-frontend** — landing page modern & responsive
-
-> _tips:_ pin repo terbaikmu agar pengunjung langsung melihat portofolio terbaik.
+### 📈 github stats
+<!-- ganti `YOUR_USERNAME` dengan username github-mu -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="github stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=dark" alt="top languages" />
+</p>
 
 ---
 
-### badge stat & bahasa (opsional)
-tambahkan ini di bawah header untuk menampilkan statistik (ganti `YOUR_GITHUB_USERNAME` dengan username-mu):
+### 🔭 saat ini fokus
+- Memperkuat kemampuan backend (arsitektur, optimasi query, keamanan API).  
+- Membangun portofolio project full-stack yang bisa dipakai di dunia usaha.  
+- Belajar manajemen investasi dasar dan strategi saham jangka menengah.
 
-```md
-<!-- github stats -->
-![dzahwan's github stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true)
+---
 
-<!-- top langs -->
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+### 📫 kontak
+<!-- tambahkan link atau email jika ingin -->
+- Github: `https://github.com/YOUR_USERNAME`  
+- LinkedIn: `https://linkedin.com/in/YOUR_LINKEDIN` *(opsional)*  
+- Email: `your.email@example.com` *(opsional)*
+
+---
+
+
