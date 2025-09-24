@@ -31,9 +31,9 @@ Halo — Aku Muhamad Dzahwan Hanif Albenti. Fokus utamaku adalah membangun aplik
 ### 📈 github stats
 <!-- ganti `YOUR_USERNAME` dengan username github-mu -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hanifalben46-oss&show_icons=true&theme=dark&hide_border=true" alt="github stats" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=dark" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanifalben46-oss&layout=compact&hide_border=true&theme=dark" alt="top languages" />
 </p>
 
 ---
